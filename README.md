@@ -95,12 +95,9 @@ Developed a Chrome extension for real-time body-language feedback during video c
 <div align="center">
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mahdi0x06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Mahdi's GitHub stats">
-  <img height="165" src="https://streak-stats.demolab.com/?user=mahdi0x06&theme=radical&hide_border=true&background=0D1117" alt="Mahdi's GitHub streak">
-</p>
-
-<p>
-  <img width="420" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahdi0x06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Mahdi's top languages">
+  <img width="340" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mahdi0x06&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117" alt="Mahdi's top languages">
 </p>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF0080,100:7928CA&height=90&section=footer" alt="Decorative footer">
